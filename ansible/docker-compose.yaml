@@ -1,0 +1,7 @@
+version: '3'
+services:
+  frontend:
+    image: anrkuist/react-frontend-dev:latest
+    container_name: frontend
+    ports:
+      - "8080:80"

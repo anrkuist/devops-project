@@ -1,0 +1,4 @@
+version: 1.0.0
+docker_compose_path: /Users/itstar/Documents/Programming/Github/devops-project/ansible/docker-compose.yaml
+linux_user: nodingo
+docker_password: 9#t$qovzjX2&Fjufmsv^jCQd
